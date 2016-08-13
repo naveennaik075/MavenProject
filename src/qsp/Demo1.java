@@ -14,7 +14,7 @@ public class Demo1 {
         	  driver.get("https://www.google.co.in/");
         	  String str = driver.getTitle();
         	  Reporter.log(str, true);
-        	  Assert.fail();
+        	 // Assert.fail();
         	  driver.close();
           }
 }
