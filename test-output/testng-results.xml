@@ -5,12 +5,12 @@
       <![CDATA[Google]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="16800" started-at="2016-08-06T09:35:24Z" finished-at="2016-08-06T09:35:40Z">
+  <suite name="Suite" duration-ms="14268" started-at="2016-08-13T12:07:59Z" finished-at="2016-08-13T12:08:13Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="16800" started-at="2016-08-06T09:35:24Z" finished-at="2016-08-06T09:35:40Z">
+    <test name="Test" duration-ms="14268" started-at="2016-08-13T12:07:59Z" finished-at="2016-08-13T12:08:13Z">
       <class name="qsp.Demo1">
-        <test-method status="PASS" signature="method1()[pri:0, instance:qsp.Demo1@5b275dab]" name="method1" duration-ms="16778" started-at="2016-08-06T15:05:24Z" finished-at="2016-08-06T15:05:40Z">
+        <test-method status="PASS" signature="method1()[pri:0, instance:qsp.Demo1@de0a01f]" name="method1" duration-ms="14247" started-at="2016-08-13T17:37:59Z" finished-at="2016-08-13T17:38:13Z">
           <reporter-output>
             <line>
               <![CDATA[Google]]>
@@ -18,6 +18,6 @@
           </reporter-output>
         </test-method> <!-- method1 -->
       </class> <!-- qsp.Demo1 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
